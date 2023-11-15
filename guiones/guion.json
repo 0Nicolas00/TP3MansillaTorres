@@ -124,7 +124,7 @@
           },
           {
                "tiempo":"02:00",
-               "duracion":10000,
+               "duracion":5000,
                "camara":"Camara18",
                "target":"Target12",
                "nombre":"en rosa"
@@ -152,14 +152,14 @@
           },
           {
                "tiempo":"03:11",
-               "duracion":10000,
+               "duracion":5000,
                "camara":"Camara22",
                "target":"Target13",
                "nombre":"acercandose a rosa central"
           },
           {
                "tiempo":"03:34",
-               "duracion":5000,
+               "duracion":2000,
                "camara":"Camara23",
                "target":"Target14",
                "nombre":"rosa final"
